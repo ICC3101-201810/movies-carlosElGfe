@@ -1,0 +1,10 @@
+C:\Users\carlos\source\repos\LabCarlosAguila\LabCarlosAguila\bin\Debug\LabCarlosAguila.exe.config
+C:\Users\carlos\source\repos\LabCarlosAguila\LabCarlosAguila\bin\Debug\LabCarlosAguila.exe
+C:\Users\carlos\source\repos\LabCarlosAguila\LabCarlosAguila\bin\Debug\LabCarlosAguila.pdb
+C:\Users\carlos\source\repos\LabCarlosAguila\LabCarlosAguila\obj\Debug\LabCarlosAguila.csprojResolveAssemblyReference.cache
+C:\Users\carlos\source\repos\LabCarlosAguila\LabCarlosAguila\obj\Debug\LabCarlosAguila.Form1.resources
+C:\Users\carlos\source\repos\LabCarlosAguila\LabCarlosAguila\obj\Debug\LabCarlosAguila.Properties.Resources.resources
+C:\Users\carlos\source\repos\LabCarlosAguila\LabCarlosAguila\obj\Debug\LabCarlosAguila.csproj.GenerateResource.cache
+C:\Users\carlos\source\repos\LabCarlosAguila\LabCarlosAguila\obj\Debug\LabCarlosAguila.csproj.CoreCompileInputs.cache
+C:\Users\carlos\source\repos\LabCarlosAguila\LabCarlosAguila\obj\Debug\LabCarlosAguila.exe
+C:\Users\carlos\source\repos\LabCarlosAguila\LabCarlosAguila\obj\Debug\LabCarlosAguila.pdb
